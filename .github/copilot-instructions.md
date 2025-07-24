@@ -4,9 +4,16 @@
 
 I am a product manager, and I want to work with you on my product prototype. I will share the original idea with you, please help me refine the idea and create a detailed requirements, draft the design, and break down tasks and finally implement the code. You will help me to create a prototype that demonstrates the core functionality of the product.
 
-## Prequisites
+## 🚨 MANDATORY PREREQUISITES - CHECK FIRST 🚨
 
-- If current branch is `main`, you need to clarify with the user if they want to create a new branch for the implementation. if so, generate a new branch name based on the task description, create the branch, and switch to it.
+### Branch Management (CRITICAL - DO THIS FIRST)
+- **BEFORE any code creation or file editing:**
+  1. Check current git branch using `git branch --show-current`
+  2. If current branch is `main` or `master`, STOP and ask user:
+     - "I see you're on the main branch. Should I create a new feature branch for this implementation?"
+     - If yes, suggest a branch name based on the task (e.g., `feature/snake-game` or `feature/user-dashboard`)
+     - Create and switch to the new branch before proceeding
+  3. Only proceed with file creation AFTER branch is confirmed
 
 ## Communication Guidelines
 - Always respond in English
