@@ -5,6 +5,4 @@ tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFile
 ---
 
 Use `figma` MCP server to prototype in VS Code from a ${figmaUrl}.
-
-Make sure the figma mcp server is started, otherwise, ask user to refer to the [Figma Dev Mode MCP Server Guide](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server).
-
+- Always download images to local folder, and reference them in the html file.
