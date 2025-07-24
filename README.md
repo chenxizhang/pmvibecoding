@@ -1,20 +1,24 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# PM Vibe Coding Repository
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+This repository is designed specifically for Product Managers to practice **vibe coding** in Visual Studio Code - a rapid prototyping and validation approach that helps PMs quickly turn ideas into tangible prototypes.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+## What is Vibe Coding?
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+Vibe coding is a methodology that enables Product Managers to quickly prototype and validate ideas through rapid development cycles. This template comes pre-configured with custom chat modes, essential extensions, and MCP servers to help you get started immediately.
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## Quick Start
+
+Ready to start prototyping? Follow these simple steps:
+
+1. **Ensure Required Extensions**: Make sure you have all the necessary VS Code extensions installed (they should be pre-configured in this template), if you want use figma MCP server, you need to follow the guidance from [Figma Dev Mode MCP Server Guide](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Dev-Mode-MCP-Server).
+
+2. **Open Copilot Chat**: Press `Ctrl+Shift+I` to open the GitHub Copilot Chat interface
+
+3. **Select PM Mode**: In the bottom-left corner of the chat interface, select the **"PM prototyping"** mode
+
+4. **Start Creating**: Type your idea or concept and let the AI help you build a prototype!
+
+
+## Contact
+
+If you have any questions or need assistance, feel free to reach out to Ares Chen.

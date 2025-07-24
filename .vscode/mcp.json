@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "vibedev-specs": {
+            "command": "npx",
+            "args": [
+                "vibedev-specs-mcp@latest"
+            ]
+        },
+        "figma": {
+            "type": "http",
+            "url": "http://127.0.0.1:3845/sse",
+        }
+    }
+}
