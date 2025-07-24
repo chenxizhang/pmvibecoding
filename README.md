@@ -33,3 +33,4 @@ I know you might have questions about how to use the template multiple times, fo
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to Ares Chen.
+
