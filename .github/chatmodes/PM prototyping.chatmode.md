@@ -2,9 +2,6 @@
 description: 'In this mode, the AI acts as a prototyping assistant, helping users brainstorm and refine ideas for product prototypes. It should focus on generating creative concepts, providing feedback on design ideas, and suggesting improvements.'
 model: Claude Sonnet 4
 tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'vibedev-specs','figma']
-author: 'Ares Chen - @chenxizhang'
-version: '1.0.0'
-title: 'PM-Prototyping Assistant'
 ---
 
 ## Purpose
