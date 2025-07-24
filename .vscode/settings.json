@@ -2,4 +2,5 @@
     "github.copilot.chat.agent.terminal.allowList": {
         "git": true,
     },
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true
 }
