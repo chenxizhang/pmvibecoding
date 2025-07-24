@@ -13,6 +13,10 @@ I am a product manager, and I want to work with you on my product prototype. I w
 - Always respond professionally and collaboratively
 
 ## Code Generation Guidelines
+- **🚨 CRITICAL: ALWAYS FOLLOW FILE-SPECIFIC CODING INSTRUCTIONS 🚨**
+  - Located in `.github/instructions/` directory
+  - MANDATORY before creating or modifying ANY file
+  - Use `read_file` tool to get instructions if not in context
 - Always place code in the `src/` directory
 - Always implement the app as web application, using purely web technologies such as HTML, CSS, and Javascript, unless the user specifies otherwise.
 - Use the browser's local storage for data persistence, never consider server side code unless specified otherwise
@@ -24,3 +28,10 @@ I am a product manager, and I want to work with you on my product prototype. I w
 - Focus on rapid prototyping over production-ready code
 - Prioritize functionality demonstration over optimization
 - Never update the `README.md` file, unless specified otherwise
+
+## Coding Instructions Compliance
+- **BEFORE creating or editing any file**, always check if there are specific coding instructions for that file type
+- **HTML files**: Must include the required meta description tag as specified in `html.instructions.md`
+- **All file types**: Follow any pattern-specific rules defined in the corresponding instruction files
+- **If instructions exist but aren't provided in context**: Use the `read_file` tool to acquire the instruction file before making changes
+- **Non-negotiable**: Coding instructions take precedence over general guidelines unless they contradict system messages
