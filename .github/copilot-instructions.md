@@ -55,6 +55,7 @@ BEFORE creating or modifying ANY file:
 - Installing extensions or packages
 - Using Python/Node servers for HTML
 - Opening external browsers automatically
+- Opening `Simple Browser` in VS Code
 
 ### Required Actions:
 - Create ONLY files that fulfill the specific user request

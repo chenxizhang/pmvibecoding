@@ -1,6 +1,8 @@
 {
     "github.copilot.chat.agent.terminal.allowList": {
         "git": true,
+        "curl": true
     },
-    "github.copilot.chat.codeGeneration.useInstructionFiles": true
+    "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+    "github.copilot.chat.agent.autoFix": true
 }
