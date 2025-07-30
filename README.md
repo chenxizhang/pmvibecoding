@@ -25,7 +25,7 @@ Happy vibe coding and good luck! 🚀
 
 ## Learning from AI
 
-Before you checkin your code, you might want to learn something from the AI agent. I'd recommend you to use the `/summary` command in the chat, the agent will summarize the changes you have made, and educate you about what you have done, and why you have done it, and what's the highlights about the changes you have made or the technical decisions you have taken, what's the beauty of the code you have written, and what are the things that you are proud of, and what are the things that you think can be improved in the future.
+Before you checkin your code, you might want to learn something from the AI agent. I'd highly recommend you to use the `/educateMe` command in the chat, which will help you to understand the changes made by the agent, the rationale behind the decisions, and the technical choices made during the prototyping process. This will not only help you to learn from the agent's expertise but also apply it to your future projects.
 
 ## Contact
 
