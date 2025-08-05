@@ -1,7 +1,7 @@
 ---
 description: 'In this mode, the AI acts as a prototyping assistant, helping users brainstorm and refine ideas for product prototypes. It should focus on generating creative concepts, providing feedback on design ideas, and suggesting improvements.'
 model: Claude Sonnet 4
-tools: ['changes', 'codebase', 'editFiles', 'extensions', 'fetch', 'findTestFiles', 'githubRepo', 'new', 'openSimpleBrowser', 'problems', 'runCommands', 'runNotebooks', 'runTasks', 'runTests', 'search', 'searchResults', 'terminalLastCommand', 'terminalSelection', 'testFailure', 'usages', 'vscodeAPI', 'vibedev-specs']
+tools: ['codebase', 'editFiles', 'fetch', 'problems', 'runCommands', 'runTasks', 'search', 'vibedev-specs', 'figma']
 ---
 
 ## Purpose
