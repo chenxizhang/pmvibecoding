@@ -1,6 +1,6 @@
 # PM Vibe Coding Repository
 
-![PM Vibe coding visitor](https://m365-visitor-stats.azurewebsites.net/?resource=https://github.com/chenxizhang/pmvibecoding)
+<!-- ![PM Vibe coding visitor](https://m365-visitor-stats.azurewebsites.net/?resource=https://github.com/chenxizhang/pmvibecoding) -->
 
 This repository is designed specifically for Product Managers to practice **vibe coding** in Visual Studio Code - a rapid prototyping and validation approach that helps PMs quickly turn ideas into tangible prototypes.
 
@@ -32,5 +32,6 @@ Before you checkin your code, you might want to learn something from the AI agen
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to Ares Chen.
+
 
 
